@@ -1,0 +1,14 @@
+{
+  "name": "2020-game-off",
+  "version": "1.0.0",
+  "description": "Game Off is an annual game jam, where participants spend the month of November creating games based on a secret theme. The theme for this year's Game Off is MOONSHOT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "orangeNotebook",
+  "license": "ISC",
+  "devDependencies": {
+    "phaser": "^3.24.1"
+  }
+}
